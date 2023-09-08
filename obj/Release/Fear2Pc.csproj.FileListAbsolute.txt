@@ -1,0 +1,16 @@
+D:\GeneralProjects\GithubRepos\obj\Release\Fear2Pc.csproj.AssemblyReference.cache
+D:\GeneralProjects\GithubRepos\bin\Release\Fear2Pc.exe.config
+D:\GeneralProjects\GithubRepos\bin\Release\Fear2Pc.exe.manifest
+D:\GeneralProjects\GithubRepos\bin\Release\Fear2Pc.application
+D:\GeneralProjects\GithubRepos\bin\Release\Fear2Pc.exe
+D:\GeneralProjects\GithubRepos\bin\Release\Fear2Pc.pdb
+D:\GeneralProjects\GithubRepos\obj\Release\Interop.Shell32.dll
+D:\GeneralProjects\GithubRepos\obj\Release\Fear2Pc.csproj.ResolveComReference.cache
+D:\GeneralProjects\GithubRepos\obj\Release\Fear2Pc.Form1.resources
+D:\GeneralProjects\GithubRepos\obj\Release\Fear2Pc.Properties.Resources.resources
+D:\GeneralProjects\GithubRepos\obj\Release\Fear2Pc.csproj.GenerateResource.cache
+D:\GeneralProjects\GithubRepos\obj\Release\Fear2Pc.csproj.CoreCompileInputs.cache
+D:\GeneralProjects\GithubRepos\obj\Release\Fear2Pc.exe.manifest
+D:\GeneralProjects\GithubRepos\obj\Release\Fear2Pc.application
+D:\GeneralProjects\GithubRepos\obj\Release\Fear2Pc.exe
+D:\GeneralProjects\GithubRepos\obj\Release\Fear2Pc.pdb
